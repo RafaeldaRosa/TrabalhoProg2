@@ -6,6 +6,6 @@ de dados mais adequada para as operações em
 questão;
 - [ ] O sistema deve permitir o cadastro de alunos;
 - [ ] O sistema deve permitir o cadastro de professores
-- [ ] Tanto alunos como professores devem ser mantidos na 
+1. Tanto alunos como professores devem ser mantidos na 
 mesma estrutura;
- A forma de consulta de ambos é via sua matricula;
+2. A forma de consulta de ambos é via sua matricula
