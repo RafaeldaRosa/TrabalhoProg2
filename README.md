@@ -36,5 +36,5 @@ mesma estrutura;
 11. Outras operações permitidas (além do cadastro):
  1. Fazer uma consulta por livro e/ou exemplar;
  2. A partir da visualização da consultar o usuário pode fazer as seguintes operações:
-  * Alterar os dados do objeto;
-  * Excluir o objeto da estrutura de dados;
+  1. Alterar os dados do objeto;
+  2. Excluir o objeto da estrutura de dados;
